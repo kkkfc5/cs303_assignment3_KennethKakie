@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\kkaki\source\repos\cs303_assignment3_KennethKakie\cs303_assignment3_KennethKakie\main.cpp(72,91): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  cs303_assignment3_KennethKakie.vcxproj -> C:\Users\kkaki\source\repos\cs303_assignment3_KennethKakie\x64\Debug\cs303_assignment3_KennethKakie.exe
