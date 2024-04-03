@@ -21,5 +21,5 @@ public:
 
 	void print();
 
-	void insertion_sort(); // SY == SY == SY == SY == :: I MADE INSERTION SORT PART OF THE CLASS. __ YOU DONT HAVE TO __
+	void insertion_sort(); 
 };
