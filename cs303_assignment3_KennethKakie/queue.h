@@ -35,6 +35,9 @@ public:
 	bool empty() { return head == nullptr; }
 
 
+	D front() { return head->data; }
+
+
 	void push(D data) {
 		Node<D> *nodeToAdd = new Node<D>;
 		nodeToAdd->data = data;
