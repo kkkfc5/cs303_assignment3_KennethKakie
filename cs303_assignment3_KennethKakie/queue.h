@@ -35,7 +35,7 @@ public:
 	bool empty() { return head == nullptr; }
 
 
-	D front() { return head->data; }
+	D front() { return tail->data; }
 
 
 	void push(D data) {
